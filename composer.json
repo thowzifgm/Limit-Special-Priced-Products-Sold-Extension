@@ -1,0 +1,14 @@
+{
+  "name": "Informatics Special price limit ",
+  "description": "Informatics Special price limit for limiting quantity.",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "psr-4": { "Informatics\\Specialpricelimit\\": "" },
+    "files": [ "registration.php" ]
+  }
+}

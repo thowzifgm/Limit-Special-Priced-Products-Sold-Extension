@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Informatics
+ * Informatics Specialpricelimit
+ *
+ * @category   Informatics
+ * @package    Informatics_Specialpricelimit
+ * @copyright  Copyright © 2017-2018
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
+    <module name="Informatics_Specialpricelimit" setup_version="1.0.0">
+        <sequence>
+            <module name="Magento_Catalog"/>
+        </sequence>
+    </module>
+</config>
